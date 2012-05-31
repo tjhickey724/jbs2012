@@ -22,4 +22,4 @@
     mustaphaisa (remove)
 >>>>>>> 2b7f317d53057f8a8a4a5fc5cd12ba0e9db9c497
     abudeebf (remove) 
-    Tim Hickey <tjhickey@brandeis.edu>
+    Tim Hickey <tjhickey@brandeis.edu> Rachel!
