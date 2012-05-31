@@ -2,13 +2,14 @@
     bjornlevi (remove)
     acriphonic (remove)
     jcoffman93 (remove)
+    eskolnik (remove)
+    Shu Lin Chan <shulin@brandeis.edu>
     Ezra Skolnik <eskolnik@brandeis.edu>
-    shulinchan (remove)
     kashive (remove)
-    rachelburk (remove)
+    Rachel Burkhoff <rachelburkhoff@gmail.com>
     Eitan Mosenkis <mosenkis@brandeis.edu> emosenkis
     trample (remove)
-    sammbeller (remove)
+    sammbeller is the best(remove)
     mustaphaisa (remove)
     abudeebf (remove) 
-    Timothy John Hickey <timhickey@me.com>
+    Tim Hickey <timhickey@me.com>
