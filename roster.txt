@@ -1,14 +1,19 @@
-    pitosalas (remove)
+    Pito Salas <pitosalas@gmail.com>
     bjornlevi (remove)
     acriphonic (remove)
     jcoffman93 (remove)
-    eskolnik (remove)
+    Ezra Skolnik <eskolnik@brandeis.edu>
     shulinchan (remove)
     kashive (remove)
-    rachelburk (remove)
+<<<<<<< HEAD
+    Rachel Burkhoff <rachelburkhoff@gmail.com>
     emosenkis (remove)
+=======
+    rachelburk (remove)
+    Eitan Mosenkis <mosenkis@brandeis.edu> emosenkis
+>>>>>>> a359490334acd5a59464262505ebbd9fc72b7011
     trample (remove)
     sammbeller is the best(remove)
     mustaphaisa (remove)
     abudeebf (remove) 
-    hickey (remove)
+    Tim Hickey <tjhickey@brandeis.edu>
