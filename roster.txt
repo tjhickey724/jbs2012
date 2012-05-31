@@ -1,4 +1,4 @@
-    pitosalas (remove)
+    Pito Salas <pitosalas@gmail.com>
     bjornlevi (remove)
     acriphonic (remove)
     jcoffman93 (remove)
@@ -6,7 +6,7 @@
     Shu Lin Chan <shulin@brandeis.edu>
     kashive (remove)
     rachelburk (remove)
-    emosenkis (remove)
+    Eitan Mosenkis <mosenkis@brandeis.edu> emosenkis
     trample (remove)
     sammbeller (remove)
     mustaphaisa (remove)
