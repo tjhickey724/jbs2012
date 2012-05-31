@@ -5,7 +5,7 @@
     eskolnik (remove)
     Shu Lin Chan <shulin@brandeis.edu>
     Ezra Skolnik <eskolnik@brandeis.edu>
-    Avishek NEupan <avishek@brandeis.edu>
+    Avishek Neupan <avishek@brandeis.edu>
     Rachel Burkhoff <rachelburkhoff@gmail.com>
     Eitan Mosenkis <mosenkis@brandeis.edu> emosenkis
     trample tomma@brandeis.com
