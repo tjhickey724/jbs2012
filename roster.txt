@@ -11,5 +11,10 @@
     trample tomma@brandeis.com
     Mustapha Isa <misa@brandeis.edu> 
     sammbeller is the best(remove)
+    abudeebf (remove) 
+    Tim Hickey <tjhickey@brandeis.edu> 
     Fatima Abu Deeb <abudeebf@brandeis.edu>
+<<<<<<< HEAD
  I did it    Tim Hickey <tjhickey@brandeis.edu> has a wierd tie
+=======
+>>>>>>> 8b718ac119d9a51b764599f12d1ed14139ddb761
