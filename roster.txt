@@ -2,7 +2,7 @@
     bjornlevi (remove)
     acriphonic (remove)
     jcoffman93 (remove)
-    eskolnik (remove)
+    Ezra Skolnik <eskolnik@brandeis.edu>
     shulinchan (remove)
     kashive (remove)
 <<<<<<< HEAD
@@ -16,4 +16,4 @@
     sammbeller (remove)
     mustaphaisa (remove)
     abudeebf (remove) 
-    hickey (remove)
+    Tim Hickey <tjhickey@brandeis.edu>
