@@ -2,7 +2,7 @@
     bjornlevi (remove)
     acriphonic (remove)
     jcoffman93 (remove)
-    eskolnik (remove)
+    Ezra Skolnik <eskolnik@brandeis.edu>
     shulinchan (remove)
     kashive (remove)
     rachelburk (remove)
