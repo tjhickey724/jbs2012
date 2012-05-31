@@ -9,7 +9,12 @@
     Rachel Burkhoff <rachelburkhoff@gmail.com>
     Eitan Mosenkis <mosenkis@brandeis.edu> emosenkis
     trample (remove)
+<<<<<<< HEAD
+    sammbeller (remove)
+    Mustapha Isa misa@brandeis.edu 
+=======
     sammbeller is the best(remove)
     mustaphaisa (remove)
+>>>>>>> 2b7f317d53057f8a8a4a5fc5cd12ba0e9db9c497
     abudeebf (remove) 
     Tim Hickey <timhickey@me.com>
