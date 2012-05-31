@@ -11,4 +11,4 @@
     sammbeller (remove)
     mustaphaisa (remove)
     abudeebf (remove) 
-    Tim Hickey <tjhickey@brandeis.edu>
+    Timothy John Hickey <timhickey@me.com>
