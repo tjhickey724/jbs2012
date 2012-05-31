@@ -6,7 +6,7 @@
     shulinchan (remove)
     kashive (remove)
     rachelburk (remove)
-    emosenkis (remove)
+    Eitan Mosenkis <mosenkis@brandeis.edu> emosenkis
     trample (remove)
     sammbeller (remove)
     mustaphaisa (remove)
