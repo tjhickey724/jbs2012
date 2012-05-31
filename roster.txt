@@ -3,7 +3,7 @@
     acriphonic (remove)
     jcoffman93 (remove)
     eskolnik (remove)
-    shulinchan (remove)
+    Shu Lin Chan <shulin@brandeis.edu>
     kashive (remove)
     rachelburk (remove)
     emosenkis (remove)
