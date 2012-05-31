@@ -14,7 +14,11 @@
     Eitan Mosenkis <mosenkis@brandeis.edu> emosenkis
 >>>>>>> a359490334acd5a59464262505ebbd9fc72b7011
     trample (remove)
-    sammbeller (remove)
+    sammbeller is the best(remove)
     mustaphaisa (remove)
     abudeebf (remove) 
+<<<<<<< HEAD
     Tim Hickey <tjhickey@brandeis.edu> BOOOO!!!
+=======
+    Tim Hickey <tjhickey@brandeis.edu> Rachel!
+>>>>>>> 3987be8739c0520396979a0b271c2428e741ef54
