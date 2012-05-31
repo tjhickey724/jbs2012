@@ -1,3 +1,14 @@
-Tim Hickey <tjhickey@brandeis.edu>
-Eitan Mosenkis <mosenkis@brandeis.edu>
-Jeremy Coffman <jcoffman@brandeis.edu>
+    pitosalas (remove)
+    bjornlevi (remove)
+    acriphonic (remove)
+    jcoffman93 (remove)
+    eskolnik (remove)
+    shulinchan (remove)
+    kashive (remove)
+    rachelburk (remove)
+    emosenkis (remove)
+    trample (remove)
+    sammbeller (remove)
+    mustaphaisa (remove)
+    abudeebf (remove) 
+    hickey (remove)
