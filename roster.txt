@@ -1,4 +1,4 @@
-    pitosalas (remove)
+    Pito Salas <pitosalas@gmail.com>
     bjornlevi (remove)
     acriphonic (remove)
     jcoffman93 (remove)
