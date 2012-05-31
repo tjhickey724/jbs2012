@@ -2,8 +2,9 @@
     bjornlevi (remove)
     acriphonic (remove)
     jcoffman93 (remove)
+    eskolnik (remove)
+    Shu Lin Chan <shulin@brandeis.edu>
     Ezra Skolnik <eskolnik@brandeis.edu>
-    shulinchan (remove)
     kashive (remove)
 <<<<<<< HEAD
     Rachel Burkhoff <rachelburkhoff@gmail.com>
