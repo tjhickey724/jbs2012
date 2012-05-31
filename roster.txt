@@ -5,24 +5,12 @@
     eskolnik (remove)
     Shu Lin Chan <shulin@brandeis.edu>
     Ezra Skolnik <eskolnik@brandeis.edu>
-    kashive (remove)
+    Avishek Neupan <avishek@brandeis.edu>
     Rachel Burkhoff <rachelburkhoff@gmail.com>
     Eitan Mosenkis <mosenkis@brandeis.edu> emosenkis
-    trample (remove)
-<<<<<<< HEAD
-    sammbeller (remove)
-    Mustapha Isa misa@brandeis.edu 
-=======
+    trample tomma@brandeis.com
+    Mustapha Isa <misa@brandeis.edu> 
     sammbeller is the best(remove)
-    mustaphaisa (remove)
->>>>>>> 2b7f317d53057f8a8a4a5fc5cd12ba0e9db9c497
     abudeebf (remove) 
-<<<<<<< HEAD
-<<<<<<< HEAD
-    Tim Hickey <tjhickey@brandeis.edu>
-=======
-    Tim Hickey <tjhickey@brandeis.edu> Rachel! =D
->>>>>>> 3987be8739c0520396979a0b271c2428e741ef54
-=======
-    Tim Hickey <timhickey@me.com>
->>>>>>> 326808666897b2252829f6973ca6aa1e498f58a9
+    Tim Hickey <tjhickey@brandeis.edu> 
+    Fatima Abu Deeb <abudeebf@brandeis.edu>
