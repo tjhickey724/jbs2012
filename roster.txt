@@ -4,6 +4,7 @@
     jcoffman93 (remove)
     eskolnik (remove)
     Shu Lin Chan <shulin@brandeis.edu>
+    Ezra Skolnik <eskolnik@brandeis.edu>
     kashive (remove)
     rachelburk (remove)
     Eitan Mosenkis <mosenkis@brandeis.edu> emosenkis
